@@ -16,3 +16,9 @@ The data was cleaned through Excel and Python. Further exploratory and predictiv
 
 *  **66%** of predictions can be made through this statistical model, with **R^2 (coefficient of determination) regression score of 0.66**
 * The multivarient regression equation was applied to predict the future price of a house, located in Lake Forest Park, WA. The house price was predicted to be **2,028,860**
+
+##### Conclusion
+
+1.  This model was a fairly good prediction. However, a more accurate model would have been possible with more data and higher correlated attributes.
+2.  Attributes such as number of garages, waterfront size (water_depth and water_width), and bike trail access, are consideration factors when pricing a waterfront house but were not available for this model. More data on the waterfront property would improve the price prediction of waterfront houses. 
+3.  Next time, I will split the test into two separate regression equation by classifying houses into waterfront (Yes/No) and compare the accuracies of each model. More attributes for each classified group would be required to generate an high quality prediction. 
