@@ -15,4 +15,4 @@ The data was cleaned through Excel and Python. Further exploratory and predictiv
 #### Key Findings
 
 *  **66%** of predictions can be made through this statistical model, with **R^2 (coefficient of determination) regression score of 0.66**
-* The multivarient regression equation was applied to predict the future price of a house, located in Lake Forest Park, WA. The house price was predicted to be \\$2,028,860
+* The multivarient regression equation was applied to predict the future price of a house, located in Lake Forest Park, WA. The house price was predicted to be **2,028,860**
