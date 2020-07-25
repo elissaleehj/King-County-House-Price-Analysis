@@ -1,5 +1,9 @@
 # King-County-House-Price-Analysis
 
+Introduction:
+This is the second capstone project for Springboard's Data Analysis Career Track Certification.
+
+This dataset contains house sale prices for King County, which includes Seattle, and homes sold between May 2014 and May 2015. https://www.kaggle.com/harlfoxem/housesalesprediction
 
 Variable | Description |
 | --- | --- |
@@ -26,3 +30,14 @@ Variable | Description |
 | Sqft_lot15 | The square footage of the land lots of hte nearest 15 neighborhoods|
 | Property_age | Age of property|
 | age_since_renovation | Year since property was last renovated|
+
+Objective:
+
+
+Tools used:
+
+
+
+Results:
+
+
